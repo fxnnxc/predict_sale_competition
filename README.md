@@ -4,8 +4,9 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 |Model |RMSE | Rank|
 |---|---|--- |
-|LSTM| 0.98340| ----
-|LightGBM (optuna Tuning)|0.908 |Top 20%
+|Without reference |1.17|-----|
+|LSTM| 0.98340| ----|
+|LightGBM (optuna Tuning)|0.908 |Top 20%|
 |XGBoost + Additional Features | 0.88192| Top 2%|
 
 ---
@@ -32,10 +33,12 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 모델 하나씩 훈련, 추론을 진행해야 한다. 
 
-* LSTM
-* LightGBM
-* LightGBM KFold
-* XGBoost
+###  LSTM : 
+###  LightGBM
+
+
+### LightGBM KFold
+###  XGBoost
 
 ---
 
