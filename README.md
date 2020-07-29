@@ -1,4 +1,4 @@
-# predict_sale_competition
+# Predict Sale Competition
 
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
