@@ -1,5 +1,7 @@
 # predict_sale_competition
 
+https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
+
 |Model |RMSE | Rank|
 |---|---|--- |
 |LSTM| 0.98340| ----
