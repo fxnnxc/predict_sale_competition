@@ -2,12 +2,17 @@
 
 https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
-|Model |RMSE | Rank|
-|---|---|--- |
-|**Without Referencing others code** |1.17|----|
-|LSTM| 0.98340| ----|
-|LightGBM (optuna Tuning)|0.908 |Top 20%|
-|**XGBoost** + Additional Features | 0.88192| Top 2%|
+
+**WROC**  : Without Referencing others code
+
+**WHOR**  : With the help of references
+
+|Ref|Model |RMSE | Rank|
+|---|---|---|--- |
+|**WROC**| lightBGM|1.17|----|
+|**WROC**|LSTM| 0.98340| ----|
+|**WHOR**|LightGBM (optuna Tuning)|0.908 |Top 20%|
+|**WHOR**|**XGBoost** + Additional Features | 0.88192| Top 2%|
 
 ---
 
