@@ -8,6 +8,7 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 |LightGBM (optuna Tuning)|0.908 |Top 20%
 |XGBoost + Additional Features | 0.88192| Top 2%|
 
+---
 
 ## 1. Data Preprocessing
   * Read Data
@@ -24,6 +25,8 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
     * 매월 도시 판매량
     * 매월 아이템 가격
   
+---
+
 ## 2. Train
 메모리 용량 제한으로 인해서 데이터를 pickle로 저장한 뒤, 
 
@@ -34,7 +37,9 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 * LightGBM KFold
 * XGBoost
 
-## 0. References
+---
+
+## References
 
 * Feature Engineering: 
 
