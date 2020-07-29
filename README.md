@@ -5,7 +5,7 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 **WROC**  : Without Referencing others code
 
-**WHOR**  : With the help of references
+**WHOR**  : With the help of reference code
 
 |Ref|Model |RMSE | Rank|
 |---|---|---|--- |
@@ -49,7 +49,7 @@ https://www.kaggle.com/c/competitive-data-science-predict-future-sales/overview
 
 ## References
 
-* Feature Engineering: 
+* Feature Engineering: 데이터 Feature Engineering 
 
 https://www.kaggle.com/dlarionov/feature-engineering-xgboost
 
@@ -57,11 +57,11 @@ https://www.kaggle.com/dlarionov/feature-engineering-xgboost
 
 http://www.yes24.com/Product/Goods/89019624
 
-* LightGBM + optuna :
+* LightGBM + optuna : LightGBM 및 데이터 Feature Engineering
 
 https://www.kaggle.com/dhiiyaur/predict-future-sales-lgbm-hyperparameter-optuna
 
-* XGBoost + Optuna :
+* XGBoost + Optuna : XGBoost 
 
 https://medium.com/optuna/using-optuna-to-optimize-xgboost-hyperparameters-63bfcdfd3407
 
